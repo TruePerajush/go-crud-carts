@@ -6,7 +6,7 @@ pet проект REST API для управления пользователям
 
 | Технология | Назначение |
 |---|---|
-| [Go 1.22](https://go.dev/) | Язык программирования |
+| [Go 1.26.3](https://go.dev/) | Язык программирования |
 | [chi v5](https://github.com/go-chi/chi) | HTTP-роутер |
 | [pgx v5](https://github.com/jackc/pgx) | PostgreSQL-драйвер |
 | [sqlc](https://sqlc.dev/) | Генерация типизированного Go-кода из SQL |
